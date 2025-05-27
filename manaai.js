@@ -2,7 +2,7 @@ const inputBox = document.getElementById('userInput');
 const chatArea = document.getElementById('chatArea');
 const toggleButton = document.getElementById('toggleMode');
 
-const CHAT_API_KEY = "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"; 
+const CHAT_API_KEY = MANA_API_KEY; 
 const WEATHER_API_KEY = "3ffd14d6cf1813c4724afda9c7068a1a"; 
 const NEWS_API_KEY = "f97ad3d36be747b1a75c610c881b4cbd"; 
 
